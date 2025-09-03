@@ -1,4 +1,4 @@
-# lidar_camera_projection
+# lidar_camera_projection_using_imu
 
 LiDAR 포인트를 Cam 이미지 위에 projection하는 코드.
 LiDAR to IMU extrinsic, Cam to IMU extrinsic으로 Lidar to Cam extrinsic을 구해서 projection한다.
