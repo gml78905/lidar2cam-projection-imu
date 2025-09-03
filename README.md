@@ -38,3 +38,6 @@ LiDAR to IMU extrinsic, Cam to IMU extrinsic으로 Lidar to Cam extrinsic을 구
     max_range: 60.0
     point_size: 2
     draw_alpha: 0.9
+
+# 실행
+    roslaunch lidar_camera_projection project.launch
